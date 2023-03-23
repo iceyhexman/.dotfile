@@ -35,5 +35,9 @@ DOMAIN-SUFFIX,office365tw.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 
+
+# csdn
+DOMAIN-SUFFIX,csdn.net
+
 #ssh
 DST-PORT,22
