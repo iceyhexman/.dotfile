@@ -430,6 +430,7 @@ DOMAIN-SUFFIX,toutiao.com
 IP-CIDR,114.246.10.65/32,no-resolve
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytecdntp.com
 
 # Sina
 DOMAIN-SUFFIX,leju.com
