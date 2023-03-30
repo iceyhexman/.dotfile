@@ -509,6 +509,12 @@ IP-CIDR,59.111.128.0/17,no-resolve
 IP-CIDR,59.111.19.33/32,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
 
+
+
+# csdn & cnblog etc...
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cnblogs.com
+
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
