@@ -471,13 +471,6 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
 
 # NAME: NetEaseMusic
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:45:55
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 8
-# IP-CIDR: 19
-# TOTAL: 29
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com
@@ -509,19 +502,104 @@ IP-CIDR,59.111.128.0/17,no-resolve
 IP-CIDR,59.111.19.33/32,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
 
-
-
-# csdn & cnblog etc...
+# NAME: CSDN
+DOMAIN-SUFFIX,codechina.net
+DOMAIN-SUFFIX,csdn.com
 DOMAIN-SUFFIX,csdn.net
-DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,csdn.net.cn
+DOMAIN-SUFFIX,csdnimg.cn
+DOMAIN-SUFFIX,csto.com
+DOMAIN-SUFFIX,datasea.cn
+DOMAIN-SUFFIX,gitbook.cn
+DOMAIN-SUFFIX,gitchat.cn
+DOMAIN-SUFFIX,gitcode.com
+DOMAIN-SUFFIX,gitcode.net
+DOMAIN-SUFFIX,iteye.com
+DOMAIN-SUFFIX,kaifayun.com
+DOMAIN-SUFFIX,linuxpower.com.cn
+DOMAIN-SUFFIX,powerlinux.com.cn
+DOMAIN-SUFFIX,programmer.com.cn
+DOMAIN-SUFFIX,programmer.net.cn
+DOMAIN-SUFFIX,qualcomm-challenge.com
+DOMAIN-SUFFIX,tinymind.cn
+DOMAIN-SUFFIX,tinymind.com
+DOMAIN-SUFFIX,tinymind.com.cn
+DOMAIN-SUFFIX,topcto50.com
 
 # Public Direct CDN 公共直连
-#DOMAIN-SUFFIX,ajax.aspnetcdn.com
-#DOMAIN-SUFFIX,ajax.cloudflare.com
-#DOMAIN-SUFFIX,cdnjs.cloudflare.com
-#DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,staticfile.org
+
+
+# 右拍云
+DOMAIN-SUFFIX,aicdn.com
+DOMAIN-SUFFIX,aicdn2.com
+DOMAIN-SUFFIX,aicdn3.com
+DOMAIN-SUFFIX,aicdn4.com
+DOMAIN-SUFFIX,aicdn5.com
+DOMAIN-SUFFIX,authbus.com
+DOMAIN-SUFFIX,oncdp.com
+DOMAIN-SUFFIX,shangketang.com
+DOMAIN-SUFFIX,shangzhibo.tv
+DOMAIN-SUFFIX,sktcdn.com
+DOMAIN-SUFFIX,upai.com
 DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upcdn.net
+DOMAIN-SUFFIX,upyun.com
+DOMAIN-SUFFIX,yupoo.com
+DOMAIN-SUFFIX,zhidian-inc.cn
+
+# NAME: QiNiuYun
+DOMAIN-SUFFIX,atlab.ai
+DOMAIN-SUFFIX,cdnhub.net
+DOMAIN-SUFFIX,cloudappl.com
+DOMAIN-SUFFIX,clouddn.com
+DOMAIN-SUFFIX,cloudvdn.com
+DOMAIN-SUFFIX,doxygen.io
+DOMAIN-SUFFIX,everbox.net
+DOMAIN-SUFFIX,fusionappl.com
+DOMAIN-SUFFIX,goproxy.cn
+DOMAIN-SUFFIX,kirkcloud.com
+DOMAIN-SUFFIX,niuclass.net
+DOMAIN-SUFFIX,pilidns.com
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qbox.net
+DOMAIN-SUFFIX,qibox.com
+DOMAIN-SUFFIX,qiniu-enterprise.com
+DOMAIN-SUFFIX,qiniu-solutions.com
+DOMAIN-SUFFIX,qiniu.co
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniu.com.cn
+DOMAIN-SUFFIX,qiniu.in
+DOMAIN-SUFFIX,qiniu.io
+DOMAIN-SUFFIX,qiniu.org
+DOMAIN-SUFFIX,qiniu.us
+DOMAIN-SUFFIX,qiniu.work
+DOMAIN-SUFFIX,qiniuapi.com
+DOMAIN-SUFFIX,qiniuapp.com
+DOMAIN-SUFFIX,qiniublob.com
+DOMAIN-SUFFIX,qiniucc.com
+DOMAIN-SUFFIX,qiniucdn.com
+DOMAIN-SUFFIX,qiniucloud.net
+DOMAIN-SUFFIX,qiniucs.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,qiniudns.net
+DOMAIN-SUFFIX,qiniudns2.com
+DOMAIN-SUFFIX,qiniug.com
+DOMAIN-SUFFIX,qiniuimg.com
+DOMAIN-SUFFIX,qiniuinc.com
+DOMAIN-SUFFIX,qiniukodo.com
+DOMAIN-SUFFIX,qiniup.com
+DOMAIN-SUFFIX,qiniupkg.com
+DOMAIN-SUFFIX,qiniuqcdn.com
+DOMAIN-SUFFIX,qiniurs.com
+DOMAIN-SUFFIX,qiniutek.com
+DOMAIN-SUFFIX,qnfcdn.com
+DOMAIN-SUFFIX,qnlinking.com
+DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qnssl.com
+DOMAIN-SUFFIX,qnydns.com
+DOMAIN-SUFFIX,qnydns.net
+DOMAIN-SUFFIX,staticfile.org
