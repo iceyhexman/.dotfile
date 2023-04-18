@@ -61,9 +61,7 @@ DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,youku.com
 
 # 内容：Wechat 微信
-# 数量：22条
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
+PROCESS-NAME,WeChat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,weixin.qq.com
@@ -154,6 +152,8 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
 # NAME: ByteDance
+PROCESS-NAME,Feishu
+PROCESS-NAME,Lark\x20H
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,365yg.com
