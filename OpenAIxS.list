@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.nooc.ink
 DOMAIN-SUFFIX,AI.com
 
+# OtherAI service
+DOMAIN-SUFFIX,ciciai.com
+
 # NAME: Bing
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
