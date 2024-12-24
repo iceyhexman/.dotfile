@@ -57,6 +57,9 @@ USER-AGENT,TencentMidasConnect*
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 
+# tencentyun
+DOMAIN-SUFFIX,tencentyun.com
+
 # Youku 优酷
 DOMAIN-SUFFIX,youku.com
 
