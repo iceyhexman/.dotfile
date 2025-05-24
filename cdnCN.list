@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,paipai.com
 
@@ -58,10 +57,6 @@ DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,ksyun.com
-
-# Kuaishou 快手
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,yximgs.com
 
 # MOO
 USER-AGENT,MOO*
@@ -71,14 +66,10 @@ USER-AGENT,TencentMidasConnect*
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 
-# tencentyun
-DOMAIN-SUFFIX,tencentyun.com
-
 # Youku 优酷
 DOMAIN-SUFFIX,youku.com
 
 # 内容：Wechat 微信
-PROCESS-NAME,WeChat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,weixin.qq.com
@@ -129,44 +120,6 @@ DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
-
-# Alibaba
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-SUFFIX,aliimg.com
-DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alisoft.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,hichina.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
-DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
 
 # NAME: ByteDance https://github.com/dl123100/clash-geosite/
 PROCESS-NAME,Feishu
@@ -967,14 +920,12 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
-DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
@@ -1042,7 +993,6 @@ DOMAIN-SUFFIX,topcto50.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
-
 
 # 右拍云
 DOMAIN-SUFFIX,aicdn.com
