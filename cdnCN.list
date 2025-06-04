@@ -29,7 +29,9 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qy.net
-
+#local
+IP-CIDR,192.168.0.1/24,no-resolve
+IP-CIDR,192.168.1.1/24,no-resolve
 # fin
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pingan.com.cn
